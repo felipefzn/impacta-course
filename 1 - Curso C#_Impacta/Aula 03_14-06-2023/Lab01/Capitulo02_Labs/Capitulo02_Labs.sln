@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capitulo02_Labs", "Capitulo02_Labs\Capitulo02_Labs.csproj", "{B281A4E6-E370-4D16-8775-D60E20C68081}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab02", "Lab02\Lab02.csproj", "{DA1741C9-4539-4964-A4E3-25CD364B039A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab03", "Lab03\Lab03.csproj", "{F3809151-C162-4446-99B0-E39A77BC0E1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B281A4E6-E370-4D16-8775-D60E20C68081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B281A4E6-E370-4D16-8775-D60E20C68081}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B281A4E6-E370-4D16-8775-D60E20C68081}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B281A4E6-E370-4D16-8775-D60E20C68081}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA1741C9-4539-4964-A4E3-25CD364B039A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA1741C9-4539-4964-A4E3-25CD364B039A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA1741C9-4539-4964-A4E3-25CD364B039A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA1741C9-4539-4964-A4E3-25CD364B039A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3809151-C162-4446-99B0-E39A77BC0E1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3809151-C162-4446-99B0-E39A77BC0E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3809151-C162-4446-99B0-E39A77BC0E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3809151-C162-4446-99B0-E39A77BC0E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2A2E5E7-6114-420D-A960-50F321FE2F2F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,18 @@
+C:\CSharp\Aula5\Capitulo03.Labs\Lab.Utilitarios\bin\Debug\Lab.Utilitarios.dll
+C:\CSharp\Aula5\Capitulo03.Labs\Lab.Utilitarios\bin\Debug\Lab.Utilitarios.pdb
+C:\CSharp\Aula5\Capitulo03.Labs\Lab.Utilitarios\obj\Debug\Lab.Utilitarios.csproj.CoreCompileInputs.cache
+C:\CSharp\Aula5\Capitulo03.Labs\Lab.Utilitarios\obj\Debug\Lab.Utilitarios.dll
+C:\CSharp\Aula5\Capitulo03.Labs\Lab.Utilitarios\obj\Debug\Lab.Utilitarios.pdb
+C:\CSharp\Aula5\Capitulo03.Labs\Lab.Utilitarios\obj\Debug\Lab.Utilitarios.csproj.AssemblyReference.cache
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.Utilitarios\bin\Debug\Lab.Utilitarios.dll
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.Utilitarios\bin\Debug\Lab.Utilitarios.pdb
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.Utilitarios\obj\Debug\Lab.Utilitarios.csproj.AssemblyReference.cache
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.Utilitarios\obj\Debug\Lab.Utilitarios.csproj.CoreCompileInputs.cache
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.Utilitarios\obj\Debug\Lab.Utilitarios.dll
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.Utilitarios\obj\Debug\Lab.Utilitarios.pdb
+D:\1 - Curso C#_Impacta\aula 07_27-06-2023\Capitulo03.Labs\Lab.Utilitarios\bin\Debug\Lab.Utilitarios.dll
+D:\1 - Curso C#_Impacta\aula 07_27-06-2023\Capitulo03.Labs\Lab.Utilitarios\bin\Debug\Lab.Utilitarios.pdb
+D:\1 - Curso C#_Impacta\aula 07_27-06-2023\Capitulo03.Labs\Lab.Utilitarios\obj\Debug\Lab.Utilitarios.csproj.AssemblyReference.cache
+D:\1 - Curso C#_Impacta\aula 07_27-06-2023\Capitulo03.Labs\Lab.Utilitarios\obj\Debug\Lab.Utilitarios.csproj.CoreCompileInputs.cache
+D:\1 - Curso C#_Impacta\aula 07_27-06-2023\Capitulo03.Labs\Lab.Utilitarios\obj\Debug\Lab.Utilitarios.dll
+D:\1 - Curso C#_Impacta\aula 07_27-06-2023\Capitulo03.Labs\Lab.Utilitarios\obj\Debug\Lab.Utilitarios.pdb

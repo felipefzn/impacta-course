@@ -1,0 +1,45 @@
+C:\CSharp\Aula5\Capitulo03.Labs\Lab.Views\bin\Debug\Lab.Views.exe.config
+C:\CSharp\Aula5\Capitulo03.Labs\Lab.Views\bin\Debug\Lab.Views.exe
+C:\CSharp\Aula5\Capitulo03.Labs\Lab.Views\bin\Debug\Lab.Views.pdb
+C:\CSharp\Aula5\Capitulo03.Labs\Lab.Views\obj\Debug\Lab.Views.csproj.AssemblyReference.cache
+C:\CSharp\Aula5\Capitulo03.Labs\Lab.Views\obj\Debug\MainWindow.g.cs
+C:\CSharp\Aula5\Capitulo03.Labs\Lab.Views\obj\Debug\App.g.cs
+C:\CSharp\Aula5\Capitulo03.Labs\Lab.Views\obj\Debug\Lab.Views_MarkupCompile.cache
+C:\CSharp\Aula5\Capitulo03.Labs\Lab.Views\obj\Debug\Lab.Views_MarkupCompile.lref
+C:\CSharp\Aula5\Capitulo03.Labs\Lab.Views\obj\Debug\MainWindow.baml
+C:\CSharp\Aula5\Capitulo03.Labs\Lab.Views\obj\Debug\Lab.Views.g.resources
+C:\CSharp\Aula5\Capitulo03.Labs\Lab.Views\obj\Debug\Lab.Views.Properties.Resources.resources
+C:\CSharp\Aula5\Capitulo03.Labs\Lab.Views\obj\Debug\Lab.Views.csproj.GenerateResource.cache
+C:\CSharp\Aula5\Capitulo03.Labs\Lab.Views\obj\Debug\Lab.Views.csproj.CoreCompileInputs.cache
+C:\CSharp\Aula5\Capitulo03.Labs\Lab.Views\obj\Debug\Lab.Views.exe
+C:\CSharp\Aula5\Capitulo03.Labs\Lab.Views\obj\Debug\Lab.Views.pdb
+C:\CSharp\Aula5\Capitulo03.Labs\Lab.Views\bin\Debug\Lab.Models.dll
+C:\CSharp\Aula5\Capitulo03.Labs\Lab.Views\bin\Debug\Lab.Utilitarios.dll
+C:\CSharp\Aula5\Capitulo03.Labs\Lab.Views\bin\Debug\Lab.Models.pdb
+C:\CSharp\Aula5\Capitulo03.Labs\Lab.Views\bin\Debug\Lab.Utilitarios.pdb
+C:\CSharp\Aula5\Capitulo03.Labs\Lab.Views\obj\Debug\Lab.Views.csproj.CopyComplete
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.Views\bin\Debug\Lab.Views.exe.config
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.Views\bin\Debug\Lab.Views.exe
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.Views\bin\Debug\Lab.Views.pdb
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.Views\bin\Debug\Lab.Models.dll
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.Views\bin\Debug\Lab.Utilitarios.dll
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.Views\bin\Debug\Lab.Models.pdb
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.Views\bin\Debug\Lab.Utilitarios.pdb
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.Views\obj\Debug\Lab.Views.csproj.AssemblyReference.cache
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.Views\obj\Debug\MainWindow.g.cs
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.Views\obj\Debug\App.g.cs
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.Views\obj\Debug\Lab.Views_MarkupCompile.cache
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.Views\obj\Debug\Lab.Views_MarkupCompile.lref
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.Views\obj\Debug\MainWindow.baml
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.Views\obj\Debug\Lab.Views.g.resources
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.Views\obj\Debug\Lab.Views.Properties.Resources.resources
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.Views\obj\Debug\Lab.Views.csproj.GenerateResource.cache
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.Views\obj\Debug\Lab.Views.csproj.CoreCompileInputs.cache
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.Views\obj\Debug\Lab.Views.csproj.CopyComplete
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.Views\obj\Debug\Lab.Views.exe
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.Views\obj\Debug\Lab.Views.pdb
+D:\1 - Curso C#_Impacta\aula 07_27-06-2023\Capitulo03.Labs\Lab.Views\obj\Debug\Lab.Views.csproj.AssemblyReference.cache
+D:\1 - Curso C#_Impacta\aula 07_27-06-2023\Capitulo03.Labs\Lab.Views\obj\Debug\MainWindow.g.cs
+D:\1 - Curso C#_Impacta\aula 07_27-06-2023\Capitulo03.Labs\Lab.Views\obj\Debug\App.g.cs
+D:\1 - Curso C#_Impacta\aula 07_27-06-2023\Capitulo03.Labs\Lab.Views\obj\Debug\Lab.Views_MarkupCompile.cache
+D:\1 - Curso C#_Impacta\aula 07_27-06-2023\Capitulo03.Labs\Lab.Views\obj\Debug\Lab.Views_MarkupCompile.lref

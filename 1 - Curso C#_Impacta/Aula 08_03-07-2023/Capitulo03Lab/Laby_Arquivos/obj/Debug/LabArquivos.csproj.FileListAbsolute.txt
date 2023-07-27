@@ -1,0 +1,13 @@
+C:\CSharp\Capitulo03Lab\Laby_Arquivos\bin\Debug\Laby_Arquivos.dll
+C:\CSharp\Capitulo03Lab\Laby_Arquivos\bin\Debug\Laby_Arquivos.pdb
+C:\CSharp\Capitulo03Lab\Laby_Arquivos\bin\Debug\LabModels.dll
+C:\CSharp\Capitulo03Lab\Laby_Arquivos\bin\Debug\LabUtilitarios.dll
+C:\CSharp\Capitulo03Lab\Laby_Arquivos\bin\Debug\LabModels.pdb
+C:\CSharp\Capitulo03Lab\Laby_Arquivos\bin\Debug\LabUtilitarios.pdb
+C:\CSharp\Capitulo03Lab\Laby_Arquivos\obj\Debug\LabArquivos.csproj.AssemblyReference.cache
+C:\CSharp\Capitulo03Lab\Laby_Arquivos\obj\Debug\LabArquivos.csproj.CoreCompileInputs.cache
+C:\CSharp\Capitulo03Lab\Laby_Arquivos\obj\Debug\LabArquivos.csproj.CopyComplete
+C:\CSharp\Capitulo03Lab\Laby_Arquivos\obj\Debug\Laby_Arquivos.dll
+C:\CSharp\Capitulo03Lab\Laby_Arquivos\obj\Debug\Laby_Arquivos.pdb
+D:\1 - Curso C#_Impacta\Aula 08_03-07-2023\Capitulo03Lab\Laby_Arquivos\obj\Debug\LabArquivos.csproj.AssemblyReference.cache
+D:\1 - Curso C#_Impacta\Aula 08_03-07-2023\Capitulo03Lab\Laby_Arquivos\obj\Debug\LabArquivos.csproj.CoreCompileInputs.cache

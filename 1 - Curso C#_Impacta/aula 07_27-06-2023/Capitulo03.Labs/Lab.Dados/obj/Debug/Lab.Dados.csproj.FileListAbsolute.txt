@@ -1,0 +1,11 @@
+D:\1 - Curso C#_Impacta\aula 07_27-06-2023\Capitulo03.Labs\Lab.Dados\bin\Debug\Lab.Dados.dll
+D:\1 - Curso C#_Impacta\aula 07_27-06-2023\Capitulo03.Labs\Lab.Dados\bin\Debug\Lab.Dados.pdb
+D:\1 - Curso C#_Impacta\aula 07_27-06-2023\Capitulo03.Labs\Lab.Dados\bin\Debug\Lab.Models.dll
+D:\1 - Curso C#_Impacta\aula 07_27-06-2023\Capitulo03.Labs\Lab.Dados\bin\Debug\Lab.Utilitarios.dll
+D:\1 - Curso C#_Impacta\aula 07_27-06-2023\Capitulo03.Labs\Lab.Dados\bin\Debug\Lab.Models.pdb
+D:\1 - Curso C#_Impacta\aula 07_27-06-2023\Capitulo03.Labs\Lab.Dados\bin\Debug\Lab.Utilitarios.pdb
+D:\1 - Curso C#_Impacta\aula 07_27-06-2023\Capitulo03.Labs\Lab.Dados\obj\Debug\Lab.Dados.csproj.AssemblyReference.cache
+D:\1 - Curso C#_Impacta\aula 07_27-06-2023\Capitulo03.Labs\Lab.Dados\obj\Debug\Lab.Dados.csproj.CoreCompileInputs.cache
+D:\1 - Curso C#_Impacta\aula 07_27-06-2023\Capitulo03.Labs\Lab.Dados\obj\Debug\Lab.Dados.csproj.CopyComplete
+D:\1 - Curso C#_Impacta\aula 07_27-06-2023\Capitulo03.Labs\Lab.Dados\obj\Debug\Lab.Dados.dll
+D:\1 - Curso C#_Impacta\aula 07_27-06-2023\Capitulo03.Labs\Lab.Dados\obj\Debug\Lab.Dados.pdb

@@ -1,0 +1,9 @@
+D:\1 - Curso C#_Impacta\Aula 05_16-06-2023\Capitulo03Lab\LabModels\obj\Debug\LabModels.csproj.AssemblyReference.cache
+D:\1 - Curso C#_Impacta\Aula 05_16-06-2023\Capitulo03Lab\LabModels\obj\Debug\LabModels.csproj.CoreCompileInputs.cache
+D:\1 - Curso C#_Impacta\Aula 05_16-06-2023\Capitulo03Lab\LabModels\bin\Debug\LabModels.dll
+D:\1 - Curso C#_Impacta\Aula 05_16-06-2023\Capitulo03Lab\LabModels\bin\Debug\LabModels.pdb
+D:\1 - Curso C#_Impacta\Aula 05_16-06-2023\Capitulo03Lab\LabModels\bin\Debug\LabUtilitarios.dll
+D:\1 - Curso C#_Impacta\Aula 05_16-06-2023\Capitulo03Lab\LabModels\bin\Debug\LabUtilitarios.pdb
+D:\1 - Curso C#_Impacta\Aula 05_16-06-2023\Capitulo03Lab\LabModels\obj\Debug\LabModels.csproj.CopyComplete
+D:\1 - Curso C#_Impacta\Aula 05_16-06-2023\Capitulo03Lab\LabModels\obj\Debug\LabModels.dll
+D:\1 - Curso C#_Impacta\Aula 05_16-06-2023\Capitulo03Lab\LabModels\obj\Debug\LabModels.pdb

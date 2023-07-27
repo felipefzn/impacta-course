@@ -1,0 +1,35 @@
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.WinForms.UI\bin\Debug\Lab.WinForms.UI.exe.config
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.WinForms.UI\bin\Debug\Lab.WinForms.UI.exe
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.WinForms.UI\bin\Debug\Lab.WinForms.UI.pdb
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.WinForms.UI\bin\Debug\Lab.Models.dll
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.WinForms.UI\bin\Debug\Lab.Utilitarios.dll
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.WinForms.UI\bin\Debug\Lab.Models.pdb
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.WinForms.UI\bin\Debug\Lab.Utilitarios.pdb
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.WinForms.UI\obj\Debug\Lab.WinForms.UI.csproj.AssemblyReference.cache
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.WinForms.UI\obj\Debug\Lab.WinForms.UI.Principal.resources
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.WinForms.UI\obj\Debug\Lab.WinForms.UI.Properties.Resources.resources
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.WinForms.UI\obj\Debug\Lab.WinForms.UI.csproj.GenerateResource.cache
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.WinForms.UI\obj\Debug\Lab.WinForms.UI.csproj.CoreCompileInputs.cache
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.WinForms.UI\obj\Debug\Lab.WinForms.UI.csproj.CopyComplete
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.WinForms.UI\obj\Debug\Lab.WinForms.UI.exe
+C:\CSharp\Aula5_aula6\Capitulo03.Labs\Lab.WinForms.UI\obj\Debug\Lab.WinForms.UI.pdb
+C:\CSharp\Capitulo03Lab\Lab.WinForms.UI\bin\Debug\Lab.WinForms.UI.exe.config
+C:\CSharp\Capitulo03Lab\Lab.WinForms.UI\bin\Debug\Lab.WinForms.UI.exe
+C:\CSharp\Capitulo03Lab\Lab.WinForms.UI\bin\Debug\Lab.WinForms.UI.pdb
+C:\CSharp\Capitulo03Lab\Lab.WinForms.UI\bin\Debug\LabModels.dll
+C:\CSharp\Capitulo03Lab\Lab.WinForms.UI\bin\Debug\LabUtilitarios.dll
+C:\CSharp\Capitulo03Lab\Lab.WinForms.UI\bin\Debug\LabModels.pdb
+C:\CSharp\Capitulo03Lab\Lab.WinForms.UI\bin\Debug\LabUtilitarios.pdb
+C:\CSharp\Capitulo03Lab\Lab.WinForms.UI\obj\Debug\Lab.WinForms.UI.csproj.AssemblyReference.cache
+C:\CSharp\Capitulo03Lab\Lab.WinForms.UI\obj\Debug\Lab.WinForms.UI.Principal.resources
+C:\CSharp\Capitulo03Lab\Lab.WinForms.UI\obj\Debug\Lab.WinForms.UI.Properties.Resources.resources
+C:\CSharp\Capitulo03Lab\Lab.WinForms.UI\obj\Debug\Lab.WinForms.UI.csproj.GenerateResource.cache
+C:\CSharp\Capitulo03Lab\Lab.WinForms.UI\obj\Debug\Lab.WinForms.UI.csproj.CoreCompileInputs.cache
+C:\CSharp\Capitulo03Lab\Lab.WinForms.UI\obj\Debug\Lab.WinForms.UI.csproj.CopyComplete
+C:\CSharp\Capitulo03Lab\Lab.WinForms.UI\obj\Debug\Lab.WinForms.UI.exe
+C:\CSharp\Capitulo03Lab\Lab.WinForms.UI\obj\Debug\Lab.WinForms.UI.pdb
+D:\1 - Curso C#_Impacta\Aula 08_03-07-2023\Capitulo03Lab\Lab.WinForms.UI\obj\Debug\Lab.WinForms.UI.csproj.AssemblyReference.cache
+D:\1 - Curso C#_Impacta\Aula 08_03-07-2023\Capitulo03Lab\Lab.WinForms.UI\obj\Debug\Lab.WinForms.UI.Principal.resources
+D:\1 - Curso C#_Impacta\Aula 08_03-07-2023\Capitulo03Lab\Lab.WinForms.UI\obj\Debug\Lab.WinForms.UI.Properties.Resources.resources
+D:\1 - Curso C#_Impacta\Aula 08_03-07-2023\Capitulo03Lab\Lab.WinForms.UI\obj\Debug\Lab.WinForms.UI.csproj.GenerateResource.cache
+D:\1 - Curso C#_Impacta\Aula 08_03-07-2023\Capitulo03Lab\Lab.WinForms.UI\obj\Debug\Lab.WinForms.UI.csproj.CoreCompileInputs.cache

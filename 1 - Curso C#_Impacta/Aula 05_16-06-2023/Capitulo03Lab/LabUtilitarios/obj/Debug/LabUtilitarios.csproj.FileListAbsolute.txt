@@ -1,0 +1,6 @@
+D:\1 - Curso C#_Impacta\Aula 05_16-06-2023\Capitulo03Lab\LabUtilitarios\bin\Debug\LabUtilitarios.dll
+D:\1 - Curso C#_Impacta\Aula 05_16-06-2023\Capitulo03Lab\LabUtilitarios\bin\Debug\LabUtilitarios.pdb
+D:\1 - Curso C#_Impacta\Aula 05_16-06-2023\Capitulo03Lab\LabUtilitarios\obj\Debug\LabUtilitarios.csproj.AssemblyReference.cache
+D:\1 - Curso C#_Impacta\Aula 05_16-06-2023\Capitulo03Lab\LabUtilitarios\obj\Debug\LabUtilitarios.csproj.CoreCompileInputs.cache
+D:\1 - Curso C#_Impacta\Aula 05_16-06-2023\Capitulo03Lab\LabUtilitarios\obj\Debug\LabUtilitarios.dll
+D:\1 - Curso C#_Impacta\Aula 05_16-06-2023\Capitulo03Lab\LabUtilitarios\obj\Debug\LabUtilitarios.pdb

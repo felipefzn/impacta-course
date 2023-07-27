@@ -1,0 +1,13 @@
+D:\1 - Curso C#_Impacta\Aula 06_17-06-2023\GestaoVarzea\GestaoVarzea\bin\Debug\GestaoVarzea.exe.config
+D:\1 - Curso C#_Impacta\Aula 06_17-06-2023\GestaoVarzea\GestaoVarzea\bin\Debug\GestaoVarzea.exe
+D:\1 - Curso C#_Impacta\Aula 06_17-06-2023\GestaoVarzea\GestaoVarzea\bin\Debug\GestaoVarzea.pdb
+D:\1 - Curso C#_Impacta\Aula 06_17-06-2023\GestaoVarzea\GestaoVarzea\obj\Debug\GestaoVarzea.csproj.AssemblyReference.cache
+D:\1 - Curso C#_Impacta\Aula 06_17-06-2023\GestaoVarzea\GestaoVarzea\obj\Debug\GestaoVarzea.Properties.Resources.resources
+D:\1 - Curso C#_Impacta\Aula 06_17-06-2023\GestaoVarzea\GestaoVarzea\obj\Debug\GestaoVarzea.csproj.GenerateResource.cache
+D:\1 - Curso C#_Impacta\Aula 06_17-06-2023\GestaoVarzea\GestaoVarzea\obj\Debug\GestaoVarzea.csproj.CoreCompileInputs.cache
+D:\1 - Curso C#_Impacta\Aula 06_17-06-2023\GestaoVarzea\GestaoVarzea\obj\Debug\GestaoVarzea.exe
+D:\1 - Curso C#_Impacta\Aula 06_17-06-2023\GestaoVarzea\GestaoVarzea\obj\Debug\GestaoVarzea.pdb
+D:\1 - Curso C#_Impacta\Aula 06_17-06-2023\GestaoVarzea\GestaoVarzea\obj\Debug\GestaoVarzea.frmPrincipal.resources
+D:\1 - Curso C#_Impacta\Aula 06_17-06-2023\GestaoVarzea\GestaoVarzea\obj\Debug\GestaoVarzea.frmClube.resources
+D:\1 - Curso C#_Impacta\Aula 06_17-06-2023\GestaoVarzea\GestaoVarzea\obj\Debug\GestaoVarzea.frmJogador.resources
+D:\1 - Curso C#_Impacta\Aula 06_17-06-2023\GestaoVarzea\GestaoVarzea\obj\Debug\GestaoVarzea.frmLogin.resources

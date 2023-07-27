@@ -1,0 +1,13 @@
+C:\CSharp\Capitulo03Lab\Lab_Dados\bin\Debug\Lab_Dados.dll
+C:\CSharp\Capitulo03Lab\Lab_Dados\bin\Debug\Lab_Dados.pdb
+C:\CSharp\Capitulo03Lab\Lab_Dados\bin\Debug\LabModels.dll
+C:\CSharp\Capitulo03Lab\Lab_Dados\bin\Debug\LabUtilitarios.dll
+C:\CSharp\Capitulo03Lab\Lab_Dados\bin\Debug\LabModels.pdb
+C:\CSharp\Capitulo03Lab\Lab_Dados\bin\Debug\LabUtilitarios.pdb
+C:\CSharp\Capitulo03Lab\Lab_Dados\obj\Debug\LabDados.csproj.AssemblyReference.cache
+C:\CSharp\Capitulo03Lab\Lab_Dados\obj\Debug\LabDados.csproj.CoreCompileInputs.cache
+C:\CSharp\Capitulo03Lab\Lab_Dados\obj\Debug\LabDados.csproj.CopyComplete
+C:\CSharp\Capitulo03Lab\Lab_Dados\obj\Debug\Lab_Dados.dll
+C:\CSharp\Capitulo03Lab\Lab_Dados\obj\Debug\Lab_Dados.pdb
+D:\1 - Curso C#_Impacta\Aula 08_03-07-2023\Capitulo03Lab\Lab_Dados\obj\Debug\LabDados.csproj.AssemblyReference.cache
+D:\1 - Curso C#_Impacta\Aula 08_03-07-2023\Capitulo03Lab\Lab_Dados\obj\Debug\LabDados.csproj.CoreCompileInputs.cache

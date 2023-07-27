@@ -1,0 +1,7 @@
+D:\1 - Curso C#_Impacta\Aula 03_14-06-2023\Lab01\Capitulo02_Labs\Lab02\bin\Debug\Lab02.exe.config
+D:\1 - Curso C#_Impacta\Aula 03_14-06-2023\Lab01\Capitulo02_Labs\Lab02\bin\Debug\Lab02.exe
+D:\1 - Curso C#_Impacta\Aula 03_14-06-2023\Lab01\Capitulo02_Labs\Lab02\bin\Debug\Lab02.pdb
+D:\1 - Curso C#_Impacta\Aula 03_14-06-2023\Lab01\Capitulo02_Labs\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+D:\1 - Curso C#_Impacta\Aula 03_14-06-2023\Lab01\Capitulo02_Labs\Lab02\obj\Debug\Lab02.exe
+D:\1 - Curso C#_Impacta\Aula 03_14-06-2023\Lab01\Capitulo02_Labs\Lab02\obj\Debug\Lab02.pdb
+D:\1 - Curso C#_Impacta\Aula 03_14-06-2023\Lab01\Capitulo02_Labs\Lab02\obj\Debug\Lab02.csproj.AssemblyReference.cache
